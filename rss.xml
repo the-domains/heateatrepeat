@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HeatEatRepeat]]></title>
         <description><![CDATA[HeatEatRepeat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/heateatrepeat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 16:09:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 02:10:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/heateatrepeat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cinnamon Rolls]]></title>
+            <description><![CDATA[<article><h1>Cinnamon Rolls</h1><p>I eventually found my way to this recipe while searching out the best cinnamon roll recipe. This one wins! Sticky, gooey, sweet and perfect for satisfying a craving for cinnamon rolls (or cinnamon buns).</p></article>]]></description>
+            <link>https://thegrid.ai/heateatrepeat/cinnamon-rolls/index.html</link>
+            <guid isPermaLink="false">5e055985-383d-4462-9aa7-09ffd19cef9f</guid>
+            <pubDate>Thu, 17 Dec 2015 02:10:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/heateatrepeat/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">4f790f59-3f61-4bb6-9530-0a31c7bc783b</guid>
             <pubDate>Mon, 14 Dec 2015 16:09:44 GMT</pubDate>
         </item>
