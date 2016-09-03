@@ -1,19 +1,4 @@
-name: HeatEatRepeat
-favicon: null
-layout_spectrum: 0.24273
 typography_spectrum: 0.45563
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,22 @@ color:
   lightness: 0.6826082977931947
   saturation: 0.3013775493018329
   rhythmicContrast: 0.24024067563004792
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24273
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e58a03bd-56a8-4b06-bc97-c146092925ba.svg
+name: HeatEatRepeat
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bac8a561-f520-48b6-b843-783ab55ebee7.ico
 purpose: []
